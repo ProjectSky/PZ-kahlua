@@ -11,4 +11,3 @@ http://www.apache.org/licenses/LICENSE-2.0
 
 What you can and cannot do:
 https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)
-[TEST]
